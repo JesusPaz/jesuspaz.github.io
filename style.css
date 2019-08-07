@@ -11,3 +11,11 @@
     width: 180px;
     height: 210px;
 }
+.color-name{
+    color: white;
+    font-weight: bold;
+}
+
+.color-info{
+    color:gainsboro;
+}
