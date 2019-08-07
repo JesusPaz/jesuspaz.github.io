@@ -1,0 +1,13 @@
+
+.bluegreen{
+    background: linear-gradient(to bottom, lightseagreen 0%,lightseagreen 80%, white  80%, white 100%);
+}
+
+.main{
+    font-family: 'Oswald', 'Roboto';
+}
+
+.size-img{
+    width: 180px;
+    height: 210px;
+}
