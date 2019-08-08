@@ -17,11 +17,12 @@
 }
 
 .color-info{
-    color:gainsboro;
+    color:white;
 }
 
 h6{
     color:#009B94 ;
+    font-size: 1.25rem;
 }
 
 .gray {
@@ -38,3 +39,16 @@ h6{
     -moz-box-shadow: 10px 10px 5px 0px rgba(207,207,207,1);
     box-shadow: 10px 10px 5px 0px rgba(207,207,207,1);
 }
+
+#box{
+    display: none;
+ }
+
+ .date{
+     color: gray;
+     font-size: 0.75rem
+ }
+
+ .icon{
+     color:#009B94;
+ }

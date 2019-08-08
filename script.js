@@ -11,6 +11,7 @@ function show_hide(){
 
     if(box.style.display == "none"){
         show();
+        window.scrollTo(0, 1100); 
     }else{
         hide();
     }
